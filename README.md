@@ -1,2 +1,2 @@
 # Ik-WC
-woocommerce customizations
+Add the code within your functions.php child theme file.
